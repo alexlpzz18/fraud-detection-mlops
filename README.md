@@ -108,4 +108,4 @@ Ejemplo de respuesta:
 
 ## Endpoint en producción
 
-Próximamente disponible tras el despliegue en Render.
+https://fraud-detection-mlops-q31l.onrender.com
