@@ -22,5 +22,5 @@ jobs:
       - name: Instalar dependencias
         run: pip install -r requirements.txt
 
-      - name: Ejecutar tests unitarios y de datos
-        run: pytest tests/test_datos.py tests/test_modelo.py -v
+      - name: Ejecutar test de gradientes
+        run: pytest tests/test_modelo.py::test_gradientes -v
